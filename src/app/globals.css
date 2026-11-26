@@ -74,6 +74,116 @@
   }
 }
 
+/*
+ * Page motion (CSS only: no JavaScript, no layout shift). Browsers without scroll-driven
+ * animations simply show everything as before.
+ *
+ * - Opening section: the heading rises in, the introduction follows, the photo settles from a
+ *   slight zoom. The heading starts at 20% opacity, not 0, so it still counts for Largest
+ *   Contentful Paint at first paint.
+ * - Every later section: its content rises into place as it scrolls into view; pictures settle
+ *   from a slight zoom inside their frames.
+ * - The very large statement heading ("INVEST IN WOMEN") tightens its letter-spacing on the way in.
+ * - The header gains a soft shadow once the page is scrolled.
+ *
+ * Reduced motion: only fades remain (no rise, zoom or letter-spacing), in line with the rule
+ * above that reduced motion means no movement, not no feedback.
+ */
+@keyframes page-rise {
+  from {
+    opacity: var(--rise-from-opacity, 0);
+    translate: 0 var(--rise-distance, 2.5rem);
+  }
+  to {
+    opacity: 1;
+    translate: 0 0;
+  }
+}
+
+@keyframes page-settle {
+  from {
+    transform: scale(1.08);
+  }
+  to {
+    transform: scale(1);
+  }
+}
+
+@keyframes page-tighten {
+  from {
+    letter-spacing: 0.08em;
+  }
+  to {
+    letter-spacing: -0.04em;
+  }
+}
+
+@keyframes header-lift {
+  to {
+    box-shadow: 0 6px 24px rgb(5 40 18 / 0.08);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  /* Opening section, on load. */
+  main > section:first-of-type :is(h1, h2) {
+    --rise-from-opacity: 0.2;
+    --rise-distance: 0.4em;
+    animation: page-rise 900ms cubic-bezier(0.2, 0.7, 0.2, 1) both;
+  }
+
+  main > section:first-of-type :is(h1, h2) ~ * {
+    animation: page-rise 900ms 180ms cubic-bezier(0.2, 0.7, 0.2, 1) both;
+  }
+
+  main > section:first-of-type img {
+    animation: page-settle 1800ms cubic-bezier(0.2, 0.7, 0.2, 1) both;
+  }
+
+  @supports (animation-timeline: view()) {
+    /* Later sections, as they scroll into view. */
+    main > section:not(:first-of-type) > * {
+      animation: page-rise linear both;
+      animation-timeline: view();
+      animation-range: entry 0% entry 60%;
+    }
+
+    main > section:not(:first-of-type) img {
+      animation: page-settle linear both;
+      animation-timeline: view();
+      animation-range: entry 0% cover 50%;
+    }
+
+    main > section:not(:first-of-type) .text-statement {
+      animation: page-tighten linear both;
+      animation-timeline: view();
+      animation-range: entry 10% cover 45%;
+    }
+  }
+
+  @supports (animation-timeline: scroll()) {
+    body > header {
+      animation: header-lift linear both;
+      animation-timeline: scroll(root);
+      animation-range: 0 120px;
+    }
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  main > section:first-of-type :is(h1, h2) ~ * {
+    animation: fade 600ms 120ms ease-out both;
+  }
+
+  @supports (animation-timeline: view()) {
+    main > section:not(:first-of-type) > * {
+      animation: fade linear both;
+      animation-timeline: view();
+      animation-range: entry 0% entry 50%;
+    }
+  }
+}
+
 @layer base {
   html {
     -webkit-text-size-adjust: 100%;

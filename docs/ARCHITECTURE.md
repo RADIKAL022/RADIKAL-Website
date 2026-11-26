@@ -7,7 +7,7 @@ Each decision lists the choice, the reason and the trade-off.
 - **Next.js App Router, every page statically generated.** `generateStaticParams` lists the files
   in `content/pages`; `dynamicParams = false` turns any other path into the static 404. _Why:_
   fastest possible pages, nothing to run per request, nothing to attack. _Trade-off:_ a content
-  change needs a rebuild (about a minute on Vercel), triggered by every push to `main`.
+  change needs a rebuild (a few minutes on Cloudflare), triggered by every push to `main`.
 - **Server Components by default.** Small client islands only: the header menu (`MainMenu`), the
   gallery viewer (`GalleryLightbox`) and the podcast post feed (`PostFeed`). _Why:_ minimal JavaScript, better Core Web Vitals.
 - **Routes are thin.** `src/app/**` only wires metadata and renders `ContentPage`; all logic is in
@@ -20,7 +20,7 @@ Each decision lists the choice, the reason and the trade-off.
 - **zod schemas are the single source of truth** (`src/lib/content/schemas.ts`). Types are
   inferred (`src/types/content.ts`); the loader validates every file at build time and reports
   `file: path.to.field: message`. _Why:_ a bad content edit fails the build instead of shipping a
-  broken page; Vercel keeps the previous deployment.
+  broken page; Cloudflare keeps the previous version.
 - **Blank optional fields are "not set".** Cleared fields written as `""` or `{src:"",alt:""}` are
   normalised to `undefined` by `opt()` instead of failing. A half-filled image (picture without
   description) still fails.

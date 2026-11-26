@@ -1,10 +1,11 @@
 .next
+.open-next
+.wrangler
 node_modules
 coverage
 playwright-report
 test-results
 package-lock.json
-public/admin/config.yml
 public/images
 public/videos
 docs/CONTENT-PARITY.md

@@ -5,6 +5,14 @@ import { securityHeaders } from './src/lib/security/headers';
 
 const dev = process.env.NODE_ENV === 'development';
 
+// On Cloudflare's build servers (Workers Builds sets WORKERS_CI) the site address must be set:
+// otherwise canonical URLs and the sitemap would point search engines at localhost.
+if (process.env.WORKERS_CI && !process.env.NEXT_PUBLIC_SITE_URL?.trim()) {
+  throw new Error(
+    'Set NEXT_PUBLIC_SITE_URL (e.g. https://radikal.co) in Cloudflare: Settings → Build → Build variables.',
+  );
+}
+
 const nextConfig: NextConfig = {
   reactStrictMode: true,
   poweredByHeader: false,

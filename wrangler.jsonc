@@ -1,0 +1,28 @@
+// Cloudflare Workers configuration for the RADIKAL website (deployed with @opennextjs/cloudflare).
+// `npm run deploy` builds with OpenNext and uploads; Workers Builds runs the same commands.
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "radikal-website",
+  "main": ".open-next/worker.js",
+  "compatibility_date": "2026-11-01",
+  "compatibility_flags": ["nodejs_compat", "global_fetch_strictly_public"],
+  // Static files (JS, CSS, images, prerendered pages) served by Cloudflare's asset server.
+  "assets": {
+    "directory": ".open-next/assets",
+    "binding": "ASSETS",
+  },
+  // Required by OpenNext: the Worker calls itself for some internal requests.
+  "services": [
+    {
+      "binding": "WORKER_SELF_REFERENCE",
+      "service": "radikal-website",
+    },
+  ],
+  // next/image resizing and AVIF/WebP conversion through Cloudflare Images.
+  "images": {
+    "binding": "IMAGES",
+  },
+  "observability": {
+    "enabled": true,
+  },
+}

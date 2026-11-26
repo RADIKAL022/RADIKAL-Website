@@ -3,16 +3,16 @@
 The website of RADIKAL, rebuilt from the old Wix site as a fast, accessible static site. All
 text and pictures live in JSON files under `content/`, validated at build time.
 
-- **Visitors** get static pages (Next.js, deployed on Vercel): no database, no tracking, no
+- **Visitors** get static pages (Next.js, deployed on Cloudflare Workers): no database, no tracking, no
   third-party scripts.
 - **Content** changes are edits to `content/site.json` and `content/pages/<slug>.json`; every push
-  to `main` redeploys on Vercel within a minute or two.
+  to `main` redeploys on Cloudflare within a few minutes.
 - **Developers** get a typed content model (zod), one component per section type, and a test
   suite that checks content, links, accessibility basics and security headers.
 
 | Guide                                          | For                                                                  |
 | ---------------------------------------------- | -------------------------------------------------------------------- |
-| [Deployment and setup](docs/DEPLOYMENT.md)     | Vercel, environment, domain                                          |
+| [Deployment and setup](docs/DEPLOYMENT.md)     | Cloudflare Workers, environment, domain                              |
 | [Architecture](docs/ARCHITECTURE.md)           | Decisions and trade-offs                                             |
 | [Contributing](CONTRIBUTING.md)                | Workflow, conventions, adding a section type or page                 |
 | [Content inventory](docs/CONTENT-INVENTORY.md) | Everything found on the Wix site, and **what still needs the owner** |
@@ -36,6 +36,8 @@ npm run dev                  # http://localhost:3000
 | `npm run dev`                     | Development server                                                                                   |
 | `npm run build`                   | Production build; every page is statically generated and all content is validated                    |
 | `npm start`                       | Serve the production build                                                                           |
+| `npm run preview`                 | Build for Cloudflare (OpenNext) and run it locally on the Workers runtime, http://localhost:8787     |
+| `npm run deploy`                  | Build for Cloudflare and upload (needs `npx wrangler login`; normally Workers Builds does this)      |
 | `npm run lint`                    | ESLint (Next, typescript-eslint strict + type-checked, jsx-a11y strict, import order), zero warnings |
 | `npm run typecheck`               | `tsc --noEmit` (strict)                                                                              |
 | `npm run format` / `format:check` | Prettier                                                                                             |
@@ -57,7 +59,7 @@ npm run dev                  # http://localhost:3000
  src/components/ui ── Button, SmartLink, Container, Section, Heading, Card, ContentImage, Markdown
  src/components/layout ── SiteHeader + MainMenu*, SiteFooter, SkipLink        (* = client island)
 
- publish: commit to main on GitHub ──► Vercel build (content validated) ──► live
+ publish: commit to main on GitHub ──► Cloudflare build (OpenNext, content validated) ──► live
 ```
 
 ### Folder map
@@ -127,7 +129,8 @@ One schema and one component; TypeScript and the tests enforce the rest:
 Runtime: `next`, `react`, `react-dom` (framework), `zod` (content validation and type inference),
 `server-only` (guarantees the file-system content loader never reaches the browser bundle).
 
-Development: `typescript`, `@types/*`; `tailwindcss` + `@tailwindcss/postcss` (styling with
+Development: `typescript`, `@types/*`; `@opennextjs/cloudflare` + `wrangler` (build and deploy
+for Cloudflare Workers); `tailwindcss` + `@tailwindcss/postcss` (styling with
 design tokens); `eslint`, `@eslint/js`, `eslint-config-next`, `typescript-eslint`,
 `eslint-plugin-jsx-a11y`, `eslint-plugin-simple-import-sort`, `eslint-config-prettier` (linting);
 `prettier` + `prettier-plugin-tailwindcss` (formatting); `husky` + `lint-staged` (pre-commit);
@@ -138,7 +141,7 @@ tested in-house code instead).
 
 ## If the site stops updating after an edit
 
-A content edit that breaks validation makes the Vercel build fail; **the live site keeps the last
+A content edit that breaks validation makes the Cloudflare build fail; **the live site keeps the last
 good version**. Either fix the field named in the build error and push again, or revert the last
 commit (`git revert <sha> && git push`, or GitHub Desktop: **History → right-click → Revert
 changes in commit**).

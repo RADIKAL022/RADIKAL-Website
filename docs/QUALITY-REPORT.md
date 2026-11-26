@@ -82,7 +82,7 @@ Lighthouse 13.6.0, Chromium 159 headless, against `next start` on localhost with
 
 - **Payments and newsletter** are not implemented (no paid services, no backend): donation and
   sign-up buttons open an email until the owner provides links. See "Needs the owner".
-- **Lighthouse was measured locally** (`next start`, no CDN, no HTTP/2), not on Vercel. Mobile
+- **Lighthouse was measured locally** (`next start`, no CDN, no HTTP/2), not on Cloudflare. Mobile
   performance under simulated slow 4G is the weakest score on photo-heavy pages; desktop and the
   other three categories are 100.
 - **`script-src 'unsafe-inline'`** on public pages: required for statically generated Next.js

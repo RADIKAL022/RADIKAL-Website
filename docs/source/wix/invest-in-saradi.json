@@ -1,0 +1,262 @@
+{
+  "wixUrl": "https://nora936.wixsite.com/radikal/investinsaradi",
+  "wixTitle": "Invest in Saradi | RADIKAL",
+  "lang": "en",
+  "newSlug": "invest-in-saradi",
+  "items": [
+    {
+      "kind": "image",
+      "wixMedia": "3685dd_fa274908553649429648f83c9753c832~mv2.png",
+      "wixFileName": null
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "SARADI"
+    },
+    {
+      "kind": "paragraph",
+      "text": "a powerful combination that takes its inspiration from the revered figure of the Madan Sara, and fuses it with our name, RADIKAL"
+    },
+    {
+      "kind": "link",
+      "text": "Support Saradi",
+      "href": "https://nora936.wixsite.com/radikal/investinsaradi"
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Saradi: Our Spirit"
+    },
+    {
+      "kind": "paragraph",
+      "text": "The name Saradi is a tribute to the legendary Madan Sara, the tenacious market women of Haiti. Named after a bustling, fast-moving bird, the Madan Sara is the quintessential enterprising woman, the backbone of the country's informal economy. These resilient micro entrepreneurs are responsible for transporting, distributing, and selling nearly all local goods, from farm to market."
+    },
+    {
+      "kind": "paragraph",
+      "text": "They are symbols of courage, ingenuity, and relentless economic independence, often navigating treacherous conditions to feed and support their families. They embody the very spirit of grassroots enterprise and self-determination that RADIKAL champions."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Our women entrepreneurs are the modern Madan Sara. We are building on this legacy by equipping them with RADIKAL solutions : our deep-rooted commitment to sustainable financial empowerment, ecosystem protection, and community mobilization."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Saradi represents the powerful union of the indispensable spirit of these women and our bold, sustainable framework. It signifies our dedication to fueling women's entrepreneurship while ensuring their work is resilient to climate change, securing sovereignty and prosperity for generations to come."
+    },
+    {
+      "kind": "image",
+      "wixMedia": "3685dd_648fdf8d137749faa7731cfe05b11fa5~mv2.jpg",
+      "wixFileName": null
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Make a difference"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Change starts with people like you. Your donation helps make a real impact, one action at a time. Together, we can do more."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Frequency"
+    },
+    {
+      "kind": "form-input",
+      "type": "radio",
+      "label": "One time"
+    },
+    {
+      "kind": "form-label",
+      "text": "One time"
+    },
+    {
+      "kind": "paragraph",
+      "text": "One time"
+    },
+    {
+      "kind": "form-input",
+      "type": "radio",
+      "label": "Monthly"
+    },
+    {
+      "kind": "form-label",
+      "text": "Monthly"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Monthly"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Amount"
+    },
+    {
+      "kind": "form-input",
+      "type": "radio",
+      "label": null
+    },
+    {
+      "kind": "form-label",
+      "text": "Option"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Training & Certification : funds one woman's comprehensive training in business management, food safety, and sanitation, giving her the professional skills to succeed."
+    },
+    {
+      "kind": "paragraph",
+      "text": "$350"
+    },
+    {
+      "kind": "form-input",
+      "type": "radio",
+      "label": null
+    },
+    {
+      "kind": "form-label",
+      "text": "Option"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Equipment Kit : provides a Saradi with essential, high-quality tools, including a clean, efficient cookstove and safe prep equipment, enabling her to operate a sustainable, healthy business."
+    },
+    {
+      "kind": "paragraph",
+      "text": "$875"
+    },
+    {
+      "kind": "form-input",
+      "type": "radio",
+      "label": null
+    },
+    {
+      "kind": "form-label",
+      "text": "Option"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Seed Capital & Inventory : supplies the initial micro-financing for a Saradi to purchase inventory and organic ingredients directly from local farmers, kickstarting her social business."
+    },
+    {
+      "kind": "paragraph",
+      "text": "$1,900"
+    },
+    {
+      "kind": "form-input",
+      "type": "radio",
+      "label": null
+    },
+    {
+      "kind": "form-label",
+      "text": "Option"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Micro-Franchise Launch : fully funds the start-up of a new woman-led micro-franchise, covering training, equipment and food cart, initial inventory, and continuous upskilling in our 18-month program."
+    },
+    {
+      "kind": "paragraph",
+      "text": "$2,500"
+    },
+    {
+      "kind": "form-input",
+      "type": "radio",
+      "label": "Other"
+    },
+    {
+      "kind": "form-label",
+      "text": "Other"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Other"
+    },
+    {
+      "kind": "form-textarea"
+    },
+    {
+      "kind": "paragraph",
+      "text": "0/100"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Comment (optional)"
+    },
+    {
+      "kind": "button",
+      "text": "Invest $2,500 Monthly"
+    },
+    {
+      "kind": "link",
+      "text": "Facebook",
+      "href": "https://facebook.com/sharer/sharer.php?u=https://nora936.wixsite.com/radikal/investinsaradi"
+    },
+    {
+      "kind": "link",
+      "text": "X (Twitter)",
+      "href": "https://twitter.com/intent/tweet?url=https://nora936.wixsite.com/radikal/investinsaradi"
+    },
+    {
+      "kind": "link",
+      "text": "WhatsApp",
+      "href": "https://api.whatsapp.com/send/?phone&text=https://nora936.wixsite.com/radikal/investinsaradi"
+    },
+    {
+      "kind": "button",
+      "text": "Copy link"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Your Investment. Their Autonomy."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Every dollar invested in this pillar is a direct investment in a woman's economic autonomy and ability to lift her family and community out of poverty. When you invest in a Saradi, you are generating a four-fold impact that ripples across the entire community."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "The RADIKAL Effect"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Economic Stability"
+    },
+    {
+      "kind": "paragraph",
+      "text": "The Saradi moves from precarious daily income to running a stable, revenue-generating enterprise. This secures her family’s housing, education, and healthcare."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Gender Empowerment"
+    },
+    {
+      "kind": "paragraph",
+      "text": "We help women secure their financial independence, increasing their voice and influence both in their households and in community decisions. Women become the chief wealth-cultivators of their regions."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Local Value Chain Strength"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Your investment strengthens the entire Haitian economy by keeping money local. It provides a reliable market for Haitian farmers and supports local women-run processing cooperatives, reducing the reliance on unstable imports. By linking vendors to local smallholder farmers, we ensure they have consistent access to fresh, healthy ingredients. The Saradi then provides hundreds of affordable, nutritious meals daily to low-income urban communities, directly combatting hunger."
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Empowering Saradi. Building the Future."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Investing in a Saradi is the most direct path to community-wide prosperity. In Haiti, the women we refer to as the Saradi are the foundation of the economy, yet they often lack access to capital, training, and secure supply chains."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Our approach doesn't offer temporary aid; it offers entrepreneurial opportunity. By transforming informal product stalls into structured, profitable micro-businesses, we unleash the economic power of these women, creating a powerful engine for financial security and self-sufficiency for thousands of families."
+    }
+  ]
+}

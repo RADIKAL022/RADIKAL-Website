@@ -1,0 +1,42 @@
+{
+  "title": "Our Story",
+  "seo": {
+    "title": "Our Story",
+    "description": "At RADIKAL, we believe that empowering women and youth is the most powerful path to a resilient future."
+  },
+  "sections": [
+    {
+      "type": "textBlock",
+      "tone": "cream",
+      "align": "left",
+      "imagePosition": "right",
+      "heading": "About",
+      "subheading": "The Full Story",
+      "body": "The seedbed for RADIKAL : the devastation of the 2010 earthquake, which highlighted the urgent need for resilient, homegrown economic solutions in Haiti. By 2016, our company’s first iteration launched with a model inspired by micro-enterprise giants, focusing on creating a sustainable market for natural personal care products crafted from local crops like cacao. This early phase successfully validated the power of empowering local entrepreneurs.\n\nThe arrival of COVID-19 acted as a pivotal moment, forcing a radical shift in our model. Our established network of small farmers and Madan Sara (the resilient women street vendors) was urgently repurposed to deliver critical food aid. The profound impact achieved during this emergency period demonstrated that our true strength lay in connecting community networks to address food security and economic empowerment. This moment influenced our evolution to a long-term focus on sustainable food systems.\n\nRADIKAL fully committed to a grassroots business model centered on the Madan Sara. These women are the historical linchpin, connecting domestic agriculture and rural farms with urban markets. Recognizing that this vital relationship had been broken by cheap imported goods, RADIKAL stepped in to mend it. By sourcing produce directly from smallholder farmers and implementing eco-friendly production practices in our facilities, we re-establish these crucial, sustainable connections.",
+      "image": {
+        "src": "/images/our-story-full-story.jpg",
+        "alt": "Women seated in a circle during a training session in a community hall"
+      }
+    },
+    {
+      "type": "textBlock",
+      "tone": "sage",
+      "align": "center",
+      "imagePosition": "right",
+      "heading": "Our Mission",
+      "body": "At RADIKAL, we believe that empowering women and youth is the most powerful path to a resilient future.\n\nOur mission is simple: build robust networks for fair market access, implement comprehensive climate resilient strategies, and equip community leaders to fully control their livelihoods, creating an equitable, thriving society."
+    },
+    {
+      "type": "textBlock",
+      "tone": "cream",
+      "align": "left",
+      "imagePosition": "left",
+      "heading": "Our Vision",
+      "body": "Our vision is a resilient and prosperous future for Haiti and its diaspora, where communities achieve sovereignty and are fully equipped to thrive. We see a world where women are empowered as recognized economic and environmental leaders, successfully running sustainable enterprises that drastically reduce poverty and replace forced migration with community stability and self-determination. We envision thriving communities rooted in local resources, where sustainable agriculture rejuvenates the land and sets the standard for ecological health and prosperity for generations to come.",
+      "image": {
+        "src": "/images/our-story-vision.jpg",
+        "alt": "A ripening tomato growing among green leaves"
+      }
+    }
+  ]
+}

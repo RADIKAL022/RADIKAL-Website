@@ -1,0 +1,51 @@
+{
+  "title": "Our Impact",
+  "seo": {
+    "title": "Our Impact",
+    "description": "We don't just talk about change—we cultivate it! From training micro-entrepreneurs to establishing climate-smart farms, we are building lasting resilience."
+  },
+  "sections": [
+    {
+      "type": "featureGrid",
+      "tone": "cream",
+      "layout": "grid",
+      "columns": 3,
+      "heading": "Our Approach",
+      "intro": "We don't just talk about change—we cultivate it! Our approach commits to integrating community-driven initiatives that directly support women's economic empowerment and foster sustainable agricultural practices. From training micro-entrepreneurs to establishing climate-smart farms, we are building lasting resilience.",
+      "items": [
+        {
+          "title": "Training",
+          "subtitle": "Skill Enhancement",
+          "body": "We equip farmers with climate-smart practices and sustainable techniques that dramatically boost crop yields while protecting the vital local environment, ensuring higher productivity and long-term ecological health."
+        },
+        {
+          "title": "Cooperatives",
+          "subtitle": "Community Building",
+          "body": "Our collaborative networks unite local farmers and craftspeople, breaking down barriers to market access and ensuring they receive fair value for their high-quality products."
+        },
+        {
+          "title": "Microfinance",
+          "subtitle": "Financial Support",
+          "body": "Our targeted microfinance programs provide Saradi with the essential capital and resources needed to launch and grow their own sustainable businesses, investing directly in their futures and families."
+        }
+      ]
+    },
+    {
+      "type": "textBlock",
+      "tone": "mint",
+      "align": "left",
+      "imagePosition": "right",
+      "imageFit": "contain",
+      "heading": "Our Impact and the SDGs",
+      "body": "Our impact is directly aligned with several critical UN Sustainable Development Goals (SDGs), notably with SDG 1 (No Poverty) and SDG 2 (Zero Hunger) by equipping women with the resources to run profitable micro-enterprises and ensuring community food sovereignty. Our dedication to empowering women and reducing inequality advances SDG 5 (Gender Equality) and SDG 10 (Reduced Inequalities). Our focus on optimizing supply chains and sustainable practices, including eco-friendly packaging, directly supports SDG 12 (Responsible Consumption and Production), ensuring our economic activities are environmentally sound and resilient. By emphasizing climate-smart practices and ecosystem protection, we champion SDG 13 (Climate Action).",
+      "button": {
+        "label": "Support Us",
+        "href": "/invest-in-saradi"
+      },
+      "image": {
+        "src": "/images/our-impact.png",
+        "alt": "Diagram of the RADIKAL tree linking eco-friendly packaging, increased revenue, clean energy, improved nutrition, financial literacy, fair trade pricing and women's empowerment to the Sustainable Development Goals"
+      }
+    }
+  ]
+}

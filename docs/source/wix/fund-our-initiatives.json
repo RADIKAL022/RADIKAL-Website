@@ -1,0 +1,520 @@
+{
+  "wixUrl": "https://nora936.wixsite.com/radikal/fundourinitiatives",
+  "wixTitle": "Fund Our Initiatives | RADIKAL",
+  "lang": "en",
+  "newSlug": "fund-our-initiatives",
+  "items": [
+    {
+      "kind": "image",
+      "wixMedia": "3685dd_9fd2ff696dea43d6b9815301507151b7~mv2.jpg",
+      "wixFileName": null
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Makaya : Roots of Resilience"
+    },
+    {
+      "kind": "paragraph",
+      "text": "This reforestation initiative, on Pic Makaya National Park, aims to restore critical biodiversity and enhance climate resilience in Haiti's vital southern mountain range."
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Make a difference"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Change starts with people like you. Your donation helps make a real impact, one action at a time. Together, we can do more."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Frequency"
+    },
+    {
+      "kind": "form-input",
+      "type": "radio",
+      "label": "One time"
+    },
+    {
+      "kind": "form-label",
+      "text": "One time"
+    },
+    {
+      "kind": "paragraph",
+      "text": "One time"
+    },
+    {
+      "kind": "form-input",
+      "type": "radio",
+      "label": "Monthly"
+    },
+    {
+      "kind": "form-label",
+      "text": "Monthly"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Monthly"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Amount"
+    },
+    {
+      "kind": "form-input",
+      "type": "radio",
+      "label": null
+    },
+    {
+      "kind": "form-label",
+      "text": "Option"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Plant 10 Trees: Your donation covers the cost of 10 native tree seedlings and ensures their initial planting on the Makaya slopes. You are helping to lay the very foundation for the forest's return."
+    },
+    {
+      "kind": "paragraph",
+      "text": "$25"
+    },
+    {
+      "kind": "form-input",
+      "type": "radio",
+      "label": null
+    },
+    {
+      "kind": "form-label",
+      "text": "Option"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Sponsor 20 Trees : This level funds 20 trees plus the essential tools (shovels, hoes) and water needed for the first crucial months of growth. You're giving the trees a fighting chance for survival."
+    },
+    {
+      "kind": "paragraph",
+      "text": "$50"
+    },
+    {
+      "kind": "form-input",
+      "type": "radio",
+      "label": null
+    },
+    {
+      "kind": "form-label",
+      "text": "Option"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Support 40 Trees & Farmer Training: Your generous gift supports 40 trees and contributes to training a local farmer in agroforestry and soil conservation techniques."
+    },
+    {
+      "kind": "paragraph",
+      "text": "$100"
+    },
+    {
+      "kind": "form-input",
+      "type": "radio",
+      "label": null
+    },
+    {
+      "kind": "form-label",
+      "text": "Option"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Protect a Small Plot (100 Trees) & Monitoring: This contribution plants 100 trees and provides resources for long-term monitoring by ORE staff. This ensures the saplings are guarded against threats."
+    },
+    {
+      "kind": "paragraph",
+      "text": "$250"
+    },
+    {
+      "kind": "form-input",
+      "type": "radio",
+      "label": null
+    },
+    {
+      "kind": "form-label",
+      "text": "Option"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Restore Biodiversity & Create a Local Job: Your significant support plants 200+ trees and creates a temporary green job for a community member, employing them to run the tree nursery."
+    },
+    {
+      "kind": "paragraph",
+      "text": "$500"
+    },
+    {
+      "kind": "form-textarea"
+    },
+    {
+      "kind": "paragraph",
+      "text": "0/100"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Comment (optional)"
+    },
+    {
+      "kind": "button",
+      "text": "Contribute $250 Monthly"
+    },
+    {
+      "kind": "link",
+      "text": "Facebook",
+      "href": "https://facebook.com/sharer/sharer.php?u=https://nora936.wixsite.com/radikal/fundourinitiatives"
+    },
+    {
+      "kind": "link",
+      "text": "X (Twitter)",
+      "href": "https://twitter.com/intent/tweet?url=https://nora936.wixsite.com/radikal/fundourinitiatives"
+    },
+    {
+      "kind": "link",
+      "text": "WhatsApp",
+      "href": "https://api.whatsapp.com/send/?phone&text=https://nora936.wixsite.com/radikal/fundourinitiatives"
+    },
+    {
+      "kind": "button",
+      "text": "Copy link"
+    },
+    {
+      "kind": "image",
+      "wixMedia": "3685dd_ff933bed17c9429a8e445281839ed5bf~mv2.jpg",
+      "wixFileName": null
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Clean Water & Coastlines"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Our clean water initiative supports watershed protection, waste management, and sustainable resource use to prevent inland pollution from reaching the ocean."
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Make a difference"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Change starts with people like you. Your donation helps make a real impact, one action at a time. Together, we can do more."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Frequency"
+    },
+    {
+      "kind": "form-input",
+      "type": "radio",
+      "label": "One time"
+    },
+    {
+      "kind": "form-label",
+      "text": "One time"
+    },
+    {
+      "kind": "paragraph",
+      "text": "One time"
+    },
+    {
+      "kind": "form-input",
+      "type": "radio",
+      "label": "Monthly"
+    },
+    {
+      "kind": "form-label",
+      "text": "Monthly"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Monthly"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Amount"
+    },
+    {
+      "kind": "form-input",
+      "type": "radio",
+      "label": null
+    },
+    {
+      "kind": "form-label",
+      "text": "Option"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Fund Coastal Clean-Up for 1 Day: Your donation directly supports one community member for a full day of coastal clean-up, removing marine plastic and trash from critical fishing and mangrove areas."
+    },
+    {
+      "kind": "paragraph",
+      "text": "$35"
+    },
+    {
+      "kind": "form-input",
+      "type": "radio",
+      "label": null
+    },
+    {
+      "kind": "form-label",
+      "text": "Option"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Supply 10 Vetiver Bundles: This funds materials to plant bundles in a vulnerable watershed. These deep-rooted plants stop soil erosion and prevent sediment from washing into the ocean."
+    },
+    {
+      "kind": "paragraph",
+      "text": "$75"
+    },
+    {
+      "kind": "form-input",
+      "type": "radio",
+      "label": null
+    },
+    {
+      "kind": "form-label",
+      "text": "Option"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Water Hygiene Workshop: This level covers the supplies and resources for a local workshop focused on waterborne disease prevention, safe water storage, and sanitation practices for one community."
+    },
+    {
+      "kind": "paragraph",
+      "text": "$150"
+    },
+    {
+      "kind": "form-input",
+      "type": "radio",
+      "label": null
+    },
+    {
+      "kind": "form-label",
+      "text": "Option"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Empower a Fishing Cooperative: This helps a local cooperative to acquire sustainable fishing gear or invest in educational materials to promote responsible harvesting, protecting fragile coral stocks."
+    },
+    {
+      "kind": "paragraph",
+      "text": "$300"
+    },
+    {
+      "kind": "form-input",
+      "type": "radio",
+      "label": null
+    },
+    {
+      "kind": "form-label",
+      "text": "Option"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Launch a New Waste Collection Point: This funds the establishment of a community-managed trash collection point near a coastal area, preventing tons of plastic waste from ever reaching the ocean."
+    },
+    {
+      "kind": "paragraph",
+      "text": "$750"
+    },
+    {
+      "kind": "form-textarea"
+    },
+    {
+      "kind": "paragraph",
+      "text": "0/100"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Comment (optional)"
+    },
+    {
+      "kind": "button",
+      "text": "Contribute $150 Monthly"
+    },
+    {
+      "kind": "link",
+      "text": "Facebook",
+      "href": "https://facebook.com/sharer/sharer.php?u=https://nora936.wixsite.com/radikal/fundourinitiatives"
+    },
+    {
+      "kind": "link",
+      "text": "X (Twitter)",
+      "href": "https://twitter.com/intent/tweet?url=https://nora936.wixsite.com/radikal/fundourinitiatives"
+    },
+    {
+      "kind": "link",
+      "text": "WhatsApp",
+      "href": "https://api.whatsapp.com/send/?phone&text=https://nora936.wixsite.com/radikal/fundourinitiatives"
+    },
+    {
+      "kind": "button",
+      "text": "Copy link"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Pathway to Stability"
+    },
+    {
+      "kind": "paragraph",
+      "text": "In collaboration with our partners in the region, this initiative is fostering belonging and stability for Haitian migrants in LATAM through skill-building, employment support, and community forums for successful, long-term integration."
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Make a difference"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Change starts with people like you. Your donation helps make a real impact, one action at a time. Together, we can do more."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Frequency"
+    },
+    {
+      "kind": "form-input",
+      "type": "radio",
+      "label": "One time"
+    },
+    {
+      "kind": "form-label",
+      "text": "One time"
+    },
+    {
+      "kind": "paragraph",
+      "text": "One time"
+    },
+    {
+      "kind": "form-input",
+      "type": "radio",
+      "label": "Monthly"
+    },
+    {
+      "kind": "form-label",
+      "text": "Monthly"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Monthly"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Amount"
+    },
+    {
+      "kind": "form-input",
+      "type": "radio",
+      "label": null
+    },
+    {
+      "kind": "form-label",
+      "text": "Option"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Provide 1 Migrant with Access to Essential Services: your donation covers the cost for a migrant to access a vital social service—like initial legal consultation or enrollment in a language class."
+    },
+    {
+      "kind": "paragraph",
+      "text": "$50"
+    },
+    {
+      "kind": "form-input",
+      "type": "radio",
+      "label": null
+    },
+    {
+      "kind": "form-label",
+      "text": "Option"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Sponsor 1 Migrant in a Professional Workshop: this funds the material and instruction costs for one migrant to attend a professional training session, focusing on upskilling in areas like digital lite"
+    },
+    {
+      "kind": "paragraph",
+      "text": "$125"
+    },
+    {
+      "kind": "form-input",
+      "type": "radio",
+      "label": null
+    },
+    {
+      "kind": "form-label",
+      "text": "Option"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Host a Community Integration Forum: your support covers the logistics (eg. space rental) to host a community forum that brings migrants and local residents together, fostering dialogue and belonging."
+    },
+    {
+      "kind": "paragraph",
+      "text": "$250"
+    },
+    {
+      "kind": "form-input",
+      "type": "radio",
+      "label": null
+    },
+    {
+      "kind": "form-label",
+      "text": "Option"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Equip 1 Migrant to Start a Small Business : this gift provides the start-up resources—like tools, initial inventory, or registration fees—for a skilled migrant to launch a small activity or business."
+    },
+    {
+      "kind": "paragraph",
+      "text": "$500"
+    },
+    {
+      "kind": "form-input",
+      "type": "radio",
+      "label": null
+    },
+    {
+      "kind": "form-label",
+      "text": "Option"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Provide Holistic Package: your support funds a comprehensive package for a migrant; business support, advanced training, and continuous mentorship to ensure their adaptation in their new environment."
+    },
+    {
+      "kind": "paragraph",
+      "text": "$1,000"
+    },
+    {
+      "kind": "button",
+      "text": "Contribute $125 Monthly"
+    },
+    {
+      "kind": "link",
+      "text": "Facebook",
+      "href": "https://facebook.com/sharer/sharer.php?u=https://nora936.wixsite.com/radikal/fundourinitiatives"
+    },
+    {
+      "kind": "link",
+      "text": "X (Twitter)",
+      "href": "https://twitter.com/intent/tweet?url=https://nora936.wixsite.com/radikal/fundourinitiatives"
+    },
+    {
+      "kind": "link",
+      "text": "WhatsApp",
+      "href": "https://api.whatsapp.com/send/?phone&text=https://nora936.wixsite.com/radikal/fundourinitiatives"
+    },
+    {
+      "kind": "button",
+      "text": "Copy link"
+    }
+  ]
+}

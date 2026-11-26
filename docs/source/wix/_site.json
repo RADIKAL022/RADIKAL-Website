@@ -1,0 +1,94 @@
+{
+  "note": "Header and footer of https://nora936.wixsite.com/radikal, identical on every page (crawled 2026-11-25).",
+  "items": [
+    {
+      "kind": "image",
+      "wixMedia": "3685dd_bea7e75cbd894bc7b437fe94fa70cc82~mv2.png",
+      "where": "header logo, footer logo, og:image"
+    },
+    { "kind": "button", "text": "Menu" },
+    {
+      "kind": "link",
+      "text": "Invest",
+      "href": "https://nora936.wixsite.com/radikal/investinsaradi"
+    },
+    { "kind": "menu-group", "text": "Who We Are" },
+    {
+      "kind": "link",
+      "text": "Our Story",
+      "href": "https://nora936.wixsite.com/radikal/our-story"
+    },
+    {
+      "kind": "link",
+      "text": "Our Values",
+      "href": "https://nora936.wixsite.com/radikal/our-values"
+    },
+    { "kind": "menu-group", "text": "What We Do" },
+    {
+      "kind": "link",
+      "text": "Our Solutions",
+      "href": "https://nora936.wixsite.com/radikal/s-projects-side-by-side"
+    },
+    {
+      "kind": "link",
+      "text": "Our Impact",
+      "href": "https://nora936.wixsite.com/radikal/our-impact"
+    },
+    {
+      "kind": "link",
+      "text": "Invest in Saradi",
+      "href": "https://nora936.wixsite.com/radikal/investinsaradi"
+    },
+    {
+      "kind": "link",
+      "text": "Our Initiatives",
+      "href": "https://nora936.wixsite.com/radikal/projects-6"
+    },
+    {
+      "kind": "link",
+      "text": "Hurricane Melissa Relief",
+      "href": "https://nora936.wixsite.com/radikal/melissahurricanerelief"
+    },
+    {
+      "kind": "link",
+      "text": "Fund Our Initiatives",
+      "href": "https://nora936.wixsite.com/radikal/fundourinitiatives"
+    },
+    { "kind": "menu-group", "text": "Join the Movement" },
+    {
+      "kind": "link",
+      "text": "Take Action",
+      "href": "https://nora936.wixsite.com/radikal/get-involved"
+    },
+    { "kind": "link", "text": "FAQ", "href": "https://nora936.wixsite.com/radikal/faq" },
+    { "kind": "paragraph", "text": "877-723-4525" },
+    { "kind": "link", "text": "info@radikal.co", "href": "mailto:info@mysite.com" },
+    { "kind": "paragraph", "text": "Haiti" },
+    { "kind": "link", "text": "LinkedIn", "href": "https://www.linkedin.com/company/radikal-col" },
+    { "kind": "link", "text": "Facebook", "href": "https://www.facebook.com/radikal.coop/" },
+    { "kind": "link", "text": "Instagram", "href": "https://www.instagram.com/radikal.coop" },
+    { "kind": "link", "text": "TikTok", "href": "https://www.tiktok.com/@radikal.co" },
+    {
+      "kind": "link",
+      "text": "Privacy Policy",
+      "href": "https://nora936.wixsite.com/radikal/blank"
+    },
+    {
+      "kind": "link",
+      "text": "Accessibility Statement",
+      "href": "https://nora936.wixsite.com/radikal/blank-1"
+    },
+    {
+      "kind": "link",
+      "text": "Terms & Conditions",
+      "href": "https://nora936.wixsite.com/radikal/blank-2"
+    },
+    {
+      "kind": "link",
+      "text": "Refund Policy",
+      "href": "https://nora936.wixsite.com/radikal/blank-3"
+    },
+    { "kind": "paragraph", "text": "© 2035 by radikal.co. Powered and secured by Wix" },
+    { "kind": "link", "text": "Skip to Main Content", "href": "#main" }
+  ]
+}

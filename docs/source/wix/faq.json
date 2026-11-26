@@ -1,0 +1,57 @@
+{
+  "wixUrl": "https://nora936.wixsite.com/radikal/faq",
+  "wixTitle": "FAQ | RADIKAL",
+  "lang": "en",
+  "newSlug": "faq",
+  "items": [
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Questions"
+    },
+    {
+      "kind": "paragraph",
+      "text": "At RADIKAL, we understand that you may have questions about our mission and impact. Here, we provide answers to some frequently asked questions to shed light on our initiatives and their significance."
+    },
+    {
+      "kind": "paragraph",
+      "text": "We Can Help"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "How do we empower women?"
+    },
+    {
+      "kind": "paragraph",
+      "text": "We empower women through comprehensive training programs that focus on giving them skills to improve their livelihoods. Additionally, we create and support farmer and artisan collectives, and we provide access to market opportunities that foster economic independence."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "What are microfranchise opportunities?"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Microfranchise opportunities allow women to start their own small businesses with the support of our organization. By providing mentorship and microfinance resources, we enable sustainable economic development for marginalized groups."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "How can I contribute to RADIKAL?"
+    },
+    {
+      "kind": "paragraph",
+      "text": "You can contribute by participating in our fundraising initiatives, becoming a partner, or volunteering your time. Every effort, no matter how small, has the potential to create significant change in the lives of women and youth."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Who do we serve?"
+    },
+    {
+      "kind": "paragraph",
+      "text": "RADIKAL primarily serves marginalized groups in Haiti and its diaspora, focusing on women and youth. By addressing the unique challenges they face, we strive to create equitable opportunities for personal and professional growth."
+    }
+  ]
+}

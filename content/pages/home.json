@@ -1,0 +1,200 @@
+{
+  "title": "Home",
+  "seo": {
+    "title": "Home",
+    "description": "Empowering women to lead, RADIKAL cultivates sovereignty and resilience across Haiti and its diaspora."
+  },
+  "sections": [
+    {
+      "type": "hero",
+      "tone": "moss",
+      "heading": "Welcome to RADIKAL",
+      "body": "a pioneering social enterprise at the intersection of **technology**, **food systems**, and community empowerment.\n\nwe are building sustainable futures by investing in **local communities**, fostering economic self-sufficiency, and championing **environmental resilience** in Haiti and beyond.",
+      "image": {
+        "src": "/images/home-street-food-vendor.jpg",
+        "alt": "Two women talking at a street food stall, one holding a blue basin"
+      }
+    },
+    {
+      "type": "textBlock",
+      "tone": "sage",
+      "align": "center",
+      "imagePosition": "right",
+      "heading": "Rooting Livelihoods. Cultivating Sovereignty.",
+      "body": "Empowering women to lead, RADIKAL cultivates sovereignty and resilience across Haiti and its diaspora. We're transforming communities through sustainable micro-enterprise, planting the seeds for a self-determined future."
+    },
+    {
+      "type": "textBlock",
+      "tone": "cream",
+      "align": "left",
+      "imagePosition": "right",
+      "heading": "The Power of the Madan Sara: The Origin",
+      "image": {
+        "src": "/images/madan-sara-bird.png",
+        "alt": "A yellow and grey bird in flight"
+      }
+    },
+    {
+      "type": "textBlock",
+      "tone": "sage",
+      "align": "center",
+      "imagePosition": "right",
+      "heading": "Our Aspiration. Their Legacy.",
+      "body": "At RADIKAL, our work is built upon the fierce, indispensable legacy of the Madan Sara; the legendary women traders who serve as the economic and literal backbone of Haiti.",
+      "button": {
+        "label": "Learn More",
+        "href": "/invest-in-saradi"
+      }
+    },
+    {
+      "type": "callToAction",
+      "tone": "cream",
+      "style": "statement",
+      "image": {
+        "src": "/images/home-our-aspiration.jpg",
+        "alt": "A woman vendor at her stall, with red and blue containers on a painted wall"
+      },
+      "heading": "Invest in Women",
+      "body": "Cultivating Sovereignty. Empowering Women. Building Resilience.",
+      "button": {
+        "label": "Start Now",
+        "href": "/invest-in-saradi"
+      }
+    },
+    {
+      "type": "socialProfile",
+      "tone": "sage",
+      "heading": "Follow us on Instagram",
+      "links": [
+        {
+          "label": "@radikal.coop",
+          "href": "https://www.instagram.com/radikal.coop"
+        }
+      ]
+    },
+    {
+      "type": "socialProfile",
+      "tone": "cream",
+      "heading": "Our Podcast",
+      "name": "therootingproject",
+      "description": "The Rooting Project\n@radikal.coop 🎙 : an afrodiasporic sanctuary + arsenal for ancestral healing, radical action and collective liberation. Host 🎧 @norajeannej",
+      "image": {
+        "src": "/images/podcast-the-rooting-project-profile.png",
+        "alt": "The Rooting Project profile picture: a map of Africa"
+      },
+      "website": {
+        "label": "https://podcasts.apple.com/us/podcast/the-rooting-project/id1498319102",
+        "href": "https://podcasts.apple.com/us/podcast/the-rooting-project/id1498319102"
+      },
+      "links": [
+        {
+          "label": "Follow",
+          "href": "https://www.instagram.com/therootingproject/"
+        }
+      ],
+      "posts": [
+        {
+          "image": {
+            "src": "/images/podcast-post-school-was-the-path-out.jpg",
+            "alt": "The Rooting Project, a RADIKAL podcast: cover art with a sound wave, from a video clip"
+          },
+          "caption": "“School was the path out!” @nadegefleurimond talks about how growing up in a strict Haitian household pushed her to excel academically.\n\nGo to our bio link to download the whole episode. 🎧 Enjoy!\n———————————\n#podcast #podcasting #podcaster #growinguphaitian #haitian #haiti #haitianamerican #applepodcasts #iheartradio",
+          "date": "March 5, 2020",
+          "large": false,
+          "href": "https://www.instagram.com/reel/B9XOPh7p-vT/"
+        },
+        {
+          "image": {
+            "src": "/images/podcast-post-we-are-live.jpg",
+            "alt": "Screenshot of The Rooting Project by RADIKAL on Apple Podcasts, showing Season 1"
+          },
+          "caption": "And we’re LIVE!!! Check us out on @applepodcasts ! (link in bio)\n1. Subscribe\n2. Download our first episode with @nadegefleurimond.\n3. Come back and let us know what you thought in the comments.\nEnjoy! 🎧",
+          "date": "February 12, 2020",
+          "large": false,
+          "href": "https://www.instagram.com/p/B8eUToGJVNM/"
+        },
+        {
+          "image": {
+            "src": "/images/podcast-post-tree-quote.jpg",
+            "alt": "Quote over a mossy tree trunk: “A tree’s beauty lies in its branches, but its strength lies in its roots.” Matshona Dhliwayo"
+          },
+          "caption": "A tree’s beauty lies in its branches but its strength lies in its roots.\n—— Matshona Dhliwayo",
+          "date": "February 8, 2020",
+          "large": true,
+          "href": "https://www.instagram.com/p/B8Tux3kJRcf/"
+        },
+        {
+          "image": {
+            "src": "/images/podcast-post-whole-episode.jpg",
+            "alt": "The Rooting Project, a RADIKAL podcast: cover art with a sound wave, from a video clip"
+          },
+          "caption": "Click the link in our bio to listen to the whole episode with guest @nadegefleurimond 🎧",
+          "date": "February 13, 2020",
+          "large": false,
+          "href": "https://www.instagram.com/reel/B8hDrzPpEpq/"
+        },
+        {
+          "image": {
+            "src": "/images/podcast-post-commitment-to-excellence.jpg",
+            "alt": "Quote card: “…be committed enough to excellence… do the groundwork.” Nadege Fleurimond, #therootingproject"
+          },
+          "caption": "The commitment to excellence is 🔑",
+          "date": "February 8, 2020",
+          "large": false,
+          "href": "https://www.instagram.com/p/B8Tu4V0pWG3/"
+        },
+        {
+          "image": {
+            "src": "/images/podcast-post-discipline-is-key.jpg",
+            "alt": "Quote card: “discipline is key. passion and love alone will never get you there.” Nadege Fleurimond, #therootingproject"
+          },
+          "caption": "Passion and love are just not enough. Coach @nadegefleurimond tells it like it is on our upcoming podcast. Stay tuned.",
+          "date": "January 23, 2020",
+          "large": true,
+          "href": "https://www.instagram.com/p/B7qq3SmpWJj/"
+        },
+        {
+          "image": {
+            "src": "/images/podcast-post-a-radikal-podcast.jpg",
+            "alt": "The Rooting Project, a RADIKAL podcast: cover art with a brown root-shaped check mark"
+          },
+          "caption": "A podcast by @radikal.coop featuring entrepreneurs, activists and artist who are intentional about staying connected to their homeland. Hosted by @norajeannej. First episode drops this week.",
+          "date": "January 20, 2020",
+          "large": false,
+          "href": "https://www.instagram.com/p/B7jPucRpUDQ/"
+        },
+        {
+          "image": {
+            "src": "/images/podcast-post-first-guest.jpg",
+            "alt": "Portrait of the first guest, Nadege Fleurimond, in green sunglasses and a black top"
+          },
+          "caption": "Our very first guest: @nadegefleurimond, multi passionate entrepreneur extraordinaire!! So excited to load and share this episode full of gems and inspiration on @anchor.fm this week.",
+          "date": "January 12, 2020",
+          "large": false,
+          "href": "https://www.instagram.com/p/B7NBtbspX7w/"
+        },
+        {
+          "image": {
+            "src": "/images/podcast-post-solution-in-the-roots.jpg",
+            "alt": "The Rooting Project logo: a brown root-shaped check mark"
+          },
+          "caption": "The solution is in the roots.",
+          "date": "January 14, 2020",
+          "large": false,
+          "href": "https://www.instagram.com/p/B7TvQUXJqkz/"
+        },
+        {
+          "image": {
+            "src": "/images/podcast-post-logo.jpg",
+            "alt": "Hand-lettered The Rooting Project logo in two shades of brown"
+          },
+          "date": "January 1, 2020",
+          "large": false,
+          "href": "https://www.instagram.com/p/B6yJYMhAoyl/"
+        }
+      ],
+      "visiblePosts": 5,
+      "loadMoreLabel": "Load More"
+    }
+  ]
+}

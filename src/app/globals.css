@@ -1,0 +1,129 @@
+@import 'tailwindcss';
+
+/*
+ * Design tokens, extracted from the original RADIKAL Wix site.
+ * Components use these through Tailwind utilities (bg-forest, text-cream, font-display, ...);
+ * no raw colour values appear anywhere else.
+ */
+@theme {
+  /* Colours */
+  --color-*: initial;
+  --color-forest: #052812; /* deep green: primary text, dark sections */
+  --color-moss: #445d4a; /* hero background, buttons */
+  --color-sage: #9db39f; /* light green bands */
+  --color-mint: #d4e9cf; /* pale green panels */
+  --color-cream: #fffaf1; /* page background */
+  --color-white: #ffffff;
+  --color-black: #000000;
+  --color-transparent: transparent;
+  --color-current: currentColor;
+
+  /* Typography (variables set by next/font in src/lib/fonts.ts) */
+  --font-display: var(--font-fraunces), Georgia, 'Times New Roman', serif;
+  --font-sans: var(--font-nunito-sans), 'Helvetica Neue', Arial, sans-serif;
+
+  --text-eyebrow: 0.875rem;
+  --text-eyebrow--letter-spacing: 0.12em;
+  --text-body: 1.0625rem;
+  --text-body--line-height: 1.7;
+  --text-lead: 1.25rem;
+  --text-lead--line-height: 1.6;
+  --text-h3: 1.5rem;
+  --text-h3--line-height: 1.25;
+  --text-h2: clamp(1.875rem, 1.4rem + 2vw, 3rem);
+  --text-h2--line-height: 1.12;
+  --text-h1: clamp(2.5rem, 1.6rem + 4vw, 4.75rem);
+  --text-h1--line-height: 1.04;
+  /* Sized so a short phrase ("Invest in Women") fits on one line, like the Wix fit-text. */
+  --text-statement: clamp(2rem, 9vw, 9rem);
+  --text-statement--line-height: 1;
+  --text-statement--letter-spacing: -0.04em;
+
+  /* Layout */
+  --container-content: 75rem;
+  --container-prose: 46rem;
+  --radius-control: 0.125rem;
+  --radius-card: 0.375rem;
+
+  /* Motion (a plain fade for visitors who ask for reduced motion, see below) */
+  --animate-rise: rise 600ms cubic-bezier(0.2, 0.7, 0.2, 1) both;
+
+  @keyframes rise {
+    from {
+      opacity: 0;
+      translate: 0 1.5rem;
+    }
+    to {
+      opacity: 1;
+      translate: 0 0;
+    }
+  }
+}
+
+/*
+ * The reduced-motion entrance (see the media query below). Declared outside @theme because
+ * Tailwind only keeps theme keyframes that a utility references, and this one is only swapped
+ * in through the --animate-rise variable.
+ */
+@keyframes fade {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@layer base {
+  html {
+    -webkit-text-size-adjust: 100%;
+    scroll-padding-top: 6rem;
+  }
+
+  body {
+    background-color: var(--color-cream);
+    color: var(--color-forest);
+    font-family: var(--font-sans);
+    font-weight: 300;
+    font-size: var(--text-body);
+    line-height: var(--text-body--line-height);
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4 {
+    font-family: var(--font-display);
+    font-weight: 300;
+    /* Fraunces "120pt" optical size: the thin, high-contrast cut of the old site. */
+    font-variation-settings: 'opsz' 120;
+    text-wrap: balance;
+  }
+
+  strong {
+    font-weight: 600;
+  }
+
+  :focus-visible {
+    outline: 3px solid currentColor;
+    outline-offset: 3px;
+  }
+
+  /*
+   * Reduced motion means no movement, not no feedback: things that slide or zoom only do so
+   * under `motion-safe:`, and the entrance animation becomes a plain fade.
+   */
+  @media (prefers-reduced-motion: reduce) {
+    :root {
+      --animate-rise: fade 450ms ease-out both;
+    }
+
+    *,
+    *::before,
+    *::after {
+      scroll-behavior: auto !important;
+    }
+  }
+}

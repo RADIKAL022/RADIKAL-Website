@@ -1,0 +1,160 @@
+{
+  "name": "RADIKAL",
+  "tagline": "a pioneering social enterprise at the intersection of technology, food systems, and community empowerment.",
+  "logo": {
+    "src": "/images/radikal-logo.png",
+    "alt": "RADIKAL"
+  },
+  "header": {
+    "menuLabel": "Menu",
+    "closeMenuLabel": "Close",
+    "button": {
+      "label": "Invest",
+      "href": "/invest-in-saradi"
+    }
+  },
+  "menu": [
+    {
+      "label": "Who We Are",
+      "children": [
+        {
+          "label": "Our Story",
+          "href": "/our-story"
+        },
+        {
+          "label": "Our Values",
+          "href": "/our-values"
+        }
+      ]
+    },
+    {
+      "label": "What We Do",
+      "children": [
+        {
+          "label": "Our Solutions",
+          "href": "/our-solutions"
+        },
+        {
+          "label": "Our Impact",
+          "href": "/our-impact"
+        }
+      ]
+    },
+    {
+      "label": "Invest in Saradi",
+      "href": "/invest-in-saradi",
+      "children": []
+    },
+    {
+      "label": "Our Initiatives",
+      "href": "/our-initiatives",
+      "children": [
+        {
+          "label": "Hurricane Melissa Relief",
+          "href": "/hurricane-melissa-relief"
+        },
+        {
+          "label": "Fund Our Initiatives",
+          "href": "/fund-our-initiatives"
+        }
+      ]
+    },
+    {
+      "label": "Join the Movement",
+      "children": [
+        {
+          "label": "Take Action",
+          "href": "/get-involved"
+        }
+      ]
+    },
+    {
+      "label": "FAQ",
+      "href": "/faq",
+      "children": []
+    }
+  ],
+  "contact": {
+    "phone": "877-723-4525",
+    "email": "info@radikal.co",
+    "location": "Haiti"
+  },
+  "social": [
+    {
+      "platform": "linkedin",
+      "label": "LinkedIn",
+      "href": "https://www.linkedin.com/company/radikal-col"
+    },
+    {
+      "platform": "facebook",
+      "label": "Facebook",
+      "href": "https://www.facebook.com/radikal.coop/"
+    },
+    {
+      "platform": "instagram",
+      "label": "Instagram",
+      "href": "https://www.instagram.com/radikal.coop"
+    },
+    {
+      "platform": "tiktok",
+      "label": "TikTok",
+      "href": "https://www.tiktok.com/@radikal.co"
+    }
+  ],
+  "footer": {
+    "legalLinks": [
+      {
+        "label": "Privacy Policy",
+        "href": "/privacy-policy"
+      },
+      {
+        "label": "Accessibility Statement",
+        "href": "/accessibility-statement"
+      },
+      {
+        "label": "Terms & Conditions",
+        "href": "/terms-and-conditions"
+      },
+      {
+        "label": "Refund Policy",
+        "href": "/refund-policy"
+      }
+    ],
+    "copyright": "© 2035 by radikal.co."
+  },
+  "share": {
+    "label": "Share",
+    "facebook": "Facebook",
+    "x": "X (Twitter)",
+    "whatsapp": "WhatsApp"
+  },
+  "ui": {
+    "skipLink": "Skip to Main Content",
+    "mainNavLabel": "Main menu",
+    "legalNavLabel": "Legal",
+    "socialNavLabel": "Social media",
+    "galleryClose": "Close",
+    "galleryPrevious": "Previous",
+    "galleryNext": "Next",
+    "postLink": "View this post on Instagram",
+    "breadcrumbHome": "Home"
+  },
+  "notFound": {
+    "title": "Page not found",
+    "heading": "Page not found",
+    "body": "The page you are looking for does not exist or has moved.",
+    "button": {
+      "label": "Home",
+      "href": "/"
+    }
+  },
+  "seo": {
+    "titleTemplate": "%s | RADIKAL",
+    "defaultTitle": "RADIKAL",
+    "defaultDescription": "a pioneering social enterprise at the intersection of technology, food systems, and community empowerment.",
+    "shareImage": {
+      "src": "/images/radikal-share.png",
+      "alt": "RADIKAL logo: a tree with deep roots"
+    }
+  }
+}

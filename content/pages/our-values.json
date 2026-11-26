@@ -1,0 +1,50 @@
+{
+  "title": "Our Values",
+  "seo": {
+    "title": "Our Values",
+    "description": "Building strong roots for a sustainable future. The MAPOU tree is a symbol of strength, deep roots, and resilience in the Caribbean."
+  },
+  "sections": [
+    {
+      "type": "textBlock",
+      "tone": "cream",
+      "align": "left",
+      "imagePosition": "right",
+      "heading": "Our Values",
+      "subheading": "Building strong roots for a sustainable future.",
+      "body": "The MAPOU tree is a symbol of strength, deep roots, and resilience in the Caribbean. It represents the four core values that drive our work at RADIKAL, ensuring our projects are community-owned, sustainable, and impactful.",
+      "image": {
+        "src": "/images/mapou-tree-roots.jpg",
+        "alt": "The wide, spreading roots of a mapou tree"
+      }
+    },
+    {
+      "type": "featureGrid",
+      "tone": "sage",
+      "layout": "grid",
+      "columns": 4,
+      "items": [
+        {
+          "title": "Mityèl",
+          "subtitle": "(mutual aid)",
+          "body": "We organize and empower farmer and artisan networks through collective effort, believing that the greatest solutions are found together."
+        },
+        {
+          "title": "Agrikilti",
+          "subtitle": "(agriculture)",
+          "body": "Our commitment to eco-friendly and climate-resilient practices ensures we are not just solving today's problems but are protecting the land for future generations."
+        },
+        {
+          "title": "Patisipasyon",
+          "subtitle": "(participation)",
+          "body": "We insist that all project design and implementation be led and owned by the local communities, guaranteeing relevance and long-term success."
+        },
+        {
+          "title": "Ouvèti",
+          "subtitle": "(opportunity & ownership)",
+          "body": "We focus on creating viable economic opportunities and ensuring that communities gain full ownership of the resources and benefits generated."
+        }
+      ]
+    }
+  ]
+}

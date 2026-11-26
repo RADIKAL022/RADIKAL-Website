@@ -1,0 +1,84 @@
+{
+  "title": "Hurricane Melissa Relief",
+  "seo": {
+    "title": "Hurricane Melissa Relief",
+    "description": "Your contribution immediately translates into targeted support for Haitian families, focusing on direct cash aid and agricultural recovery to build long-term stability."
+  },
+  "sections": [
+    {
+      "type": "gallery",
+      "tone": "cream",
+      "heading": "Hurricane Melissa Relief Efforts",
+      "images": [
+        {
+          "src": "/images/hurricane-melissa-relief-1.jpg",
+          "alt": "A flooded road below an eroded, collapsed hillside after the hurricane"
+        },
+        {
+          "src": "/images/hurricane-melissa-relief-2.jpg",
+          "alt": "A woman wading through floodwater between damaged homes"
+        }
+      ]
+    },
+    {
+      "type": "donation",
+      "anchor": "make-a-difference",
+      "tone": "mint",
+      "heading": "Make a difference",
+      "body": "Change starts with people like you. Your donation helps make a real impact, one action at a time. Together, we can do more.",
+      "frequencies": [],
+      "amountLabel": "Amount",
+      "tiers": [
+        {
+          "amount": "$50",
+          "description": "Funds a sanitation/hygiene kit and a meal voucher for one affected family (6). This ensures their access to clean water at a selected Saradi vendor's cart and provides one subsidized nutritious meal."
+        },
+        {
+          "amount": "$125",
+          "description": "Activates one Saradi as a temporary mobile cash/food voucher disbursement point, covering their setup for critical transfers, ensuring money and food reaches vulnerable families immediately"
+        },
+        {
+          "amount": "$250",
+          "description": "Provides comprehensive assistance for one struggling farmer. This includes basic farming tools, organic seeds, and a small mobile cash grant to cover urgent debris removal and clean-up labor."
+        },
+        {
+          "amount": "$500",
+          "description": "Establishes a permanent clean water station at a Saradi's location, supplying enough water filters and purification tablets to serve their immediate area for weeks, anchoring community health efforts"
+        },
+        {
+          "amount": "$1,000",
+          "description": "Provides an advance purchase agreement to a recovering farmer. This guaranteed income allows them to repair irrigation/storage damage and ensures RADIKAL's future local supply chain is maintained."
+        }
+      ],
+      "button": {
+        "label": "Donate",
+        "href": "mailto:info@radikal.co?subject=Hurricane%20Melissa%20Relief"
+      },
+      "showShareLinks": true
+    },
+    {
+      "type": "textBlock",
+      "tone": "moss",
+      "align": "left",
+      "imagePosition": "left",
+      "heading": "Your support helps.",
+      "body": "Your contribution immediately translates into targeted support for Haitian families, focusing on direct cash aid and agricultural recovery to build long-term stability.",
+      "image": {
+        "src": "/images/hurricane-melissa-relief-3.jpg",
+        "alt": "People repairing the roof of a flood-damaged house"
+      }
+    },
+    {
+      "type": "video",
+      "tone": "cream",
+      "video": {
+        "src": "/videos/hurricane-melissa-relief.mp4",
+        "poster": {
+          "src": "/images/hurricane-melissa-video-poster.jpg",
+          "alt": "Aerial view of people walking along a damaged road beside a swollen river"
+        },
+        "label": "Aerial video of a damaged road beside a swollen river after Hurricane Melissa"
+      }
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "title": "FAQ",
+  "seo": {
+    "title": "FAQ",
+    "description": "At RADIKAL, we understand that you may have questions about our mission and impact. Here, we provide answers to some frequently asked questions."
+  },
+  "sections": [
+    {
+      "type": "faq",
+      "tone": "cream",
+      "heading": "Questions",
+      "intro": "At RADIKAL, we understand that you may have questions about our mission and impact. Here, we provide answers to some frequently asked questions to shed light on our initiatives and their significance.",
+      "subheading": "We Can Help",
+      "items": [
+        {
+          "question": "How do we empower women?",
+          "answer": "We empower women through comprehensive training programs that focus on giving them skills to improve their livelihoods. Additionally, we create and support farmer and artisan collectives, and we provide access to market opportunities that foster economic independence."
+        },
+        {
+          "question": "What are microfranchise opportunities?",
+          "answer": "Microfranchise opportunities allow women to start their own small businesses with the support of our organization. By providing mentorship and microfinance resources, we enable sustainable economic development for marginalized groups."
+        },
+        {
+          "question": "How can I contribute to RADIKAL?",
+          "answer": "You can contribute by participating in our fundraising initiatives, becoming a partner, or volunteering your time. Every effort, no matter how small, has the potential to create significant change in the lives of women and youth."
+        },
+        {
+          "question": "Who do we serve?",
+          "answer": "RADIKAL primarily serves marginalized groups in Haiti and its diaspora, focusing on women and youth. By addressing the unique challenges they face, we strive to create equitable opportunities for personal and professional growth."
+        }
+      ]
+    }
+  ]
+}

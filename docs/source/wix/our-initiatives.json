@@ -1,0 +1,62 @@
+{
+  "wixUrl": "https://nora936.wixsite.com/radikal/projects-6",
+  "wixTitle": "Our Initiatives | RADIKAL",
+  "lang": "en",
+  "newSlug": "our-initiatives",
+  "items": [
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Our Initiatives"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Our initiatives are a direct response to the systemic vulnerabilities that undermine the stability and self-sufficiency the Saradi, artisans and farmers work so hard to achieve. They are critical support structures necessary for our economic empowerment efforts to succeed long-term."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Makaya : Roots of Resilience",
+      "links": ["https://nora936.wixsite.com/radikal/fundourinitiatives"]
+    },
+    {
+      "kind": "paragraph",
+      "text": "On Pic Makaya National Park, we aim to restore critical biodiversity and enhance climate resilience in Haiti's vital southern mountain range. Pic Makaya National Park is a critical global biodiversity hotspot and holds Haiti's last significant primary cloud forest. Reforestation here is essential not only for climate change mitigation and sequestering carbon but also for stabilizing soil to prevent deadly landslides and for protecting the fresh water sources that sustain the local population and downstream agriculture."
+    },
+    {
+      "kind": "image",
+      "wixMedia": "3685dd_d5b3d089f07749cd808e1abbafcb5ebf~mv2.jpg",
+      "wixFileName": "IMG_0849_edited_edited.jpg"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Clean Water and Coastlines",
+      "links": ["https://nora936.wixsite.com/radikal/fundourinitiatives"]
+    },
+    {
+      "kind": "paragraph",
+      "text": "Ocean and water health are intrinsically linked to economic survival. Coastal communities depend on fishing and healthy marine life, while inland communities rely on clean, stable watersheds. This initiative, aligned with RADIKAL’s community approach, focuses on preventing pollution at its source (inland) and cleaning the affected coastal zones, ensuring both human health and the vitality of Haiti’s essential marine ecosystems."
+    },
+    {
+      "kind": "image",
+      "wixMedia": "3685dd_ff933bed17c9429a8e445281839ed5bf~mv2.jpg",
+      "wixFileName": "View recent photos_edited.jpg"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Pathways to Stability",
+      "links": ["https://nora936.wixsite.com/radikal/fundourinitiatives"]
+    },
+    {
+      "kind": "paragraph",
+      "text": "Fostering belonging and stability for Haitian migrants in LATAM through skill-building, employment support, and community forums for successful, long-term integration. We started this initiative because of the severe crisis and displacement currently impacting Haitian communities, and a desire to extend our proven model of empowerment and stability to a rapidly growing and highly vulnerable population in the wider Caribbean and Latin America (LATAM)."
+    },
+    {
+      "kind": "image",
+      "wixMedia": "3685dd_bdf422817bab4914b629c57eddc26862~mv2.png",
+      "wixFileName": "RADIKAL_logo.png"
+    }
+  ]
+}

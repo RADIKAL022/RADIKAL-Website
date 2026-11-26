@@ -1,0 +1,75 @@
+{
+  "wixUrl": "https://nora936.wixsite.com/radikal/our-impact",
+  "wixTitle": "Our Impact | RADIKAL",
+  "lang": "en",
+  "newSlug": "our-impact",
+  "items": [
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Our Approach"
+    },
+    {
+      "kind": "paragraph",
+      "text": "We don't just talk about change—we cultivate it! Our approach commits to integrating community-driven initiatives that directly support women's economic empowerment and foster sustainable agricultural practices. From training micro-entrepreneurs to establishing climate-smart farms, we are building lasting resilience."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Training"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Skill Enhancement"
+    },
+    {
+      "kind": "paragraph",
+      "text": "We equip farmers with climate-smart practices and sustainable techniques that dramatically boost crop yields while protecting the vital local environment, ensuring higher productivity and long-term ecological health."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Cooperatives"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Community Building"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Our collaborative networks unite local farmers and craftspeople, breaking down barriers to market access and ensuring they receive fair value for their high-quality products."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Microfinance"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Financial Support"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Our targeted microfinance programs provide Saradi with the essential capital and resources needed to launch and grow their own sustainable businesses, investing directly in their futures and families."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Our Impact and the SDGs"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Our impact is directly aligned with several critical UN Sustainable Development Goals (SDGs), notably with SDG 1 (No Poverty) and SDG 2 (Zero Hunger) by equipping women with the resources to run profitable micro-enterprises and ensuring community food sovereignty. Our dedication to empowering women and reducing inequality advances SDG 5 (Gender Equality) and SDG 10 (Reduced Inequalities). Our focus on optimizing supply chains and sustainable practices, including eco-friendly packaging, directly supports SDG 12 (Responsible Consumption and Production), ensuring our economic activities are environmentally sound and resilient. By emphasizing climate-smart practices and ecosystem protection, we champion SDG 13 (Climate Action)."
+    },
+    {
+      "kind": "link",
+      "text": "Support Us",
+      "href": "https://nora936.wixsite.com/radikal/investinsaradi"
+    },
+    {
+      "kind": "image",
+      "wixMedia": "3685dd_174bb3be698c460dbb654763a1562111~mv2.png",
+      "wixFileName": null
+    }
+  ]
+}

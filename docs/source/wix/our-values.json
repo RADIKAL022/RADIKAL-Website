@@ -1,0 +1,74 @@
+{
+  "wixUrl": "https://nora936.wixsite.com/radikal/our-values",
+  "wixTitle": "Our Values | RADIKAL",
+  "lang": "en",
+  "newSlug": "our-values",
+  "items": [
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Our Values"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Building strong roots for a sustainable future."
+    },
+    {
+      "kind": "paragraph",
+      "text": "The MAPOU tree is a symbol of strength, deep roots, and resilience in the Caribbean. It represents the four core values that drive our work at RADIKAL, ensuring our projects are community-owned, sustainable, and impactful."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Mityèl"
+    },
+    {
+      "kind": "paragraph",
+      "text": "(mutual aid)"
+    },
+    {
+      "kind": "paragraph",
+      "text": "We organize and empower farmer and artisan networks through collective effort, believing that the greatest solutions are found together."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Agrikilti"
+    },
+    {
+      "kind": "paragraph",
+      "text": "(agriculture)"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Our commitment to eco-friendly and climate-resilient practices ensures we are not just solving today's problems but are protecting the land for future generations."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Patisipasyon"
+    },
+    {
+      "kind": "paragraph",
+      "text": "(participation)"
+    },
+    {
+      "kind": "paragraph",
+      "text": "We insist that all project design and implementation be led and owned by the local communities, guaranteeing relevance and long-term success."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Ouvèti"
+    },
+    {
+      "kind": "paragraph",
+      "text": "(opportunity & ownership)"
+    },
+    {
+      "kind": "paragraph",
+      "text": "We focus on creating viable economic opportunities and ensuring that communities gain full ownership of the resources and benefits generated."
+    },
+    {
+      "kind": "image",
+      "wixMedia": "3685dd_ba4149dccb2548a08e35143cf8c5df51~mv2.jpg",
+      "wixFileName": null
+    }
+  ]
+}

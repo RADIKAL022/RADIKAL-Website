@@ -1,0 +1,52 @@
+{
+  "title": "Our Initiatives",
+  "seo": {
+    "title": "Our Initiatives",
+    "description": "Our initiatives are a direct response to the systemic vulnerabilities that undermine the stability and self-sufficiency the Saradi, artisans and farmers work so hard to achieve."
+  },
+  "sections": [
+    {
+      "type": "textBlock",
+      "tone": "moss",
+      "align": "left",
+      "imagePosition": "right",
+      "heading": "Our Initiatives",
+      "body": "Our initiatives are a direct response to the systemic vulnerabilities that undermine the stability and self-sufficiency the Saradi, artisans and farmers work so hard to achieve. They are critical support structures necessary for our economic empowerment efforts to succeed long-term."
+    },
+    {
+      "type": "featureGrid",
+      "tone": "cream",
+      "layout": "stacked",
+      "columns": 3,
+      "items": [
+        {
+          "title": "Makaya : Roots of Resilience",
+          "href": "/fund-our-initiatives#makaya",
+          "image": {
+            "src": "/images/makaya-initiative.jpg",
+            "alt": "Green hills and a lake under a blue sky in southern Haiti"
+          },
+          "body": "On Pic Makaya National Park, we aim to restore critical biodiversity and enhance climate resilience in Haiti's vital southern mountain range. Pic Makaya National Park is a critical global biodiversity hotspot and holds Haiti's last significant primary cloud forest. Reforestation here is essential not only for climate change mitigation and sequestering carbon but also for stabilizing soil to prevent deadly landslides and for protecting the fresh water sources that sustain the local population and downstream agriculture."
+        },
+        {
+          "title": "Clean Water and Coastlines",
+          "href": "/fund-our-initiatives#clean-water",
+          "image": {
+            "src": "/images/clean-water-and-coastlines.jpg",
+            "alt": "A palm-lined beach with a small boat and turquoise water"
+          },
+          "body": "Ocean and water health are intrinsically linked to economic survival. Coastal communities depend on fishing and healthy marine life, while inland communities rely on clean, stable watersheds. This initiative, aligned with RADIKAL’s community approach, focuses on preventing pollution at its source (inland) and cleaning the affected coastal zones, ensuring both human health and the vitality of Haiti’s essential marine ecosystems."
+        },
+        {
+          "title": "Pathways to Stability",
+          "href": "/fund-our-initiatives#pathway-to-stability",
+          "image": {
+            "src": "/images/radikal-logo.png",
+            "alt": "RADIKAL logo: a tree with deep roots"
+          },
+          "body": "Fostering belonging and stability for Haitian migrants in LATAM through skill-building, employment support, and community forums for successful, long-term integration. We started this initiative because of the severe crisis and displacement currently impacting Haitian communities, and a desire to extend our proven model of empowerment and stability to a rapidly growing and highly vulnerable population in the wider Caribbean and Latin America (LATAM)."
+        }
+      ]
+    }
+  ]
+}

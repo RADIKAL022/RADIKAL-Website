@@ -1,0 +1,152 @@
+{
+  "title": "Fund Our Initiatives",
+  "seo": {
+    "title": "Fund Our Initiatives",
+    "description": "This reforestation initiative, on Pic Makaya National Park, aims to restore critical biodiversity and enhance climate resilience in Haiti's vital southern mountain range."
+  },
+  "sections": [
+    {
+      "type": "textBlock",
+      "anchor": "makaya",
+      "tone": "cream",
+      "align": "left",
+      "imagePosition": "left",
+      "heading": "Makaya : Roots of Resilience",
+      "body": "This reforestation initiative, on Pic Makaya National Park, aims to restore critical biodiversity and enhance climate resilience in Haiti's vital southern mountain range.",
+      "image": {
+        "src": "/images/makaya-roots-of-resilience.jpg",
+        "alt": "Green fields and hills beside a lake under a cloudy sky"
+      }
+    },
+    {
+      "type": "donation",
+      "tone": "mint",
+      "heading": "Make a difference",
+      "body": "Change starts with people like you. Your donation helps make a real impact, one action at a time. Together, we can do more.",
+      "frequencyLabel": "Frequency",
+      "frequencies": ["One time", "Monthly"],
+      "amountLabel": "Amount",
+      "tiers": [
+        {
+          "amount": "$25",
+          "description": "Plant 10 Trees: Your donation covers the cost of 10 native tree seedlings and ensures their initial planting on the Makaya slopes. You are helping to lay the very foundation for the forest's return."
+        },
+        {
+          "amount": "$50",
+          "description": "Sponsor 20 Trees : This level funds 20 trees plus the essential tools (shovels, hoes) and water needed for the first crucial months of growth. You're giving the trees a fighting chance for survival."
+        },
+        {
+          "amount": "$100",
+          "description": "Support 40 Trees & Farmer Training: Your generous gift supports 40 trees and contributes to training a local farmer in agroforestry and soil conservation techniques."
+        },
+        {
+          "amount": "$250",
+          "description": "Protect a Small Plot (100 Trees) & Monitoring: This contribution plants 100 trees and provides resources for long-term monitoring by ORE staff. This ensures the saplings are guarded against threats."
+        },
+        {
+          "amount": "$500",
+          "description": "Restore Biodiversity & Create a Local Job: Your significant support plants 200+ trees and creates a temporary green job for a community member, employing them to run the tree nursery."
+        }
+      ],
+      "button": {
+        "label": "Contribute",
+        "href": "mailto:info@radikal.co?subject=Makaya%20Roots%20of%20Resilience"
+      },
+      "showShareLinks": true
+    },
+    {
+      "type": "textBlock",
+      "anchor": "clean-water",
+      "tone": "cream",
+      "align": "left",
+      "imagePosition": "left",
+      "heading": "Clean Water & Coastlines",
+      "body": "Our clean water initiative supports watershed protection, waste management, and sustainable resource use to prevent inland pollution from reaching the ocean.",
+      "image": {
+        "src": "/images/clean-water-and-coastlines.jpg",
+        "alt": "A palm-lined beach with a small boat and turquoise water"
+      }
+    },
+    {
+      "type": "donation",
+      "tone": "mint",
+      "heading": "Make a difference",
+      "body": "Change starts with people like you. Your donation helps make a real impact, one action at a time. Together, we can do more.",
+      "frequencyLabel": "Frequency",
+      "frequencies": ["One time", "Monthly"],
+      "amountLabel": "Amount",
+      "tiers": [
+        {
+          "amount": "$35",
+          "description": "Fund Coastal Clean-Up for 1 Day: Your donation directly supports one community member for a full day of coastal clean-up, removing marine plastic and trash from critical fishing and mangrove areas."
+        },
+        {
+          "amount": "$75",
+          "description": "Supply 10 Vetiver Bundles: This funds materials to plant bundles in a vulnerable watershed. These deep-rooted plants stop soil erosion and prevent sediment from washing into the ocean."
+        },
+        {
+          "amount": "$150",
+          "description": "Water Hygiene Workshop: This level covers the supplies and resources for a local workshop focused on waterborne disease prevention, safe water storage, and sanitation practices for one community."
+        },
+        {
+          "amount": "$300",
+          "description": "Empower a Fishing Cooperative: This helps a local cooperative to acquire sustainable fishing gear or invest in educational materials to promote responsible harvesting, protecting fragile coral stocks."
+        },
+        {
+          "amount": "$750",
+          "description": "Launch a New Waste Collection Point: This funds the establishment of a community-managed trash collection point near a coastal area, preventing tons of plastic waste from ever reaching the ocean."
+        }
+      ],
+      "button": {
+        "label": "Contribute",
+        "href": "mailto:info@radikal.co?subject=Clean%20Water%20%26%20Coastlines"
+      },
+      "showShareLinks": true
+    },
+    {
+      "type": "textBlock",
+      "anchor": "pathway-to-stability",
+      "tone": "cream",
+      "align": "left",
+      "imagePosition": "right",
+      "heading": "Pathway to Stability",
+      "body": "In collaboration with our partners in the region, this initiative is fostering belonging and stability for Haitian migrants in LATAM through skill-building, employment support, and community forums for successful, long-term integration."
+    },
+    {
+      "type": "donation",
+      "tone": "mint",
+      "heading": "Make a difference",
+      "body": "Change starts with people like you. Your donation helps make a real impact, one action at a time. Together, we can do more.",
+      "frequencyLabel": "Frequency",
+      "frequencies": ["One time", "Monthly"],
+      "amountLabel": "Amount",
+      "tiers": [
+        {
+          "amount": "$50",
+          "description": "Provide 1 Migrant with Access to Essential Services: your donation covers the cost for a migrant to access a vital social service—like initial legal consultation or enrollment in a language class."
+        },
+        {
+          "amount": "$125",
+          "description": "Sponsor 1 Migrant in a Professional Workshop: this funds the material and instruction costs for one migrant to attend a professional training session, focusing on upskilling in areas like digital lite"
+        },
+        {
+          "amount": "$250",
+          "description": "Host a Community Integration Forum: your support covers the logistics (eg. space rental) to host a community forum that brings migrants and local residents together, fostering dialogue and belonging."
+        },
+        {
+          "amount": "$500",
+          "description": "Equip 1 Migrant to Start a Small Business : this gift provides the start-up resources—like tools, initial inventory, or registration fees—for a skilled migrant to launch a small activity or business."
+        },
+        {
+          "amount": "$1,000",
+          "description": "Provide Holistic Package: your support funds a comprehensive package for a migrant; business support, advanced training, and continuous mentorship to ensure their adaptation in their new environment."
+        }
+      ],
+      "button": {
+        "label": "Contribute",
+        "href": "mailto:info@radikal.co?subject=Pathway%20to%20Stability"
+      },
+      "showShareLinks": true
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "wixUrl": "https://nora936.wixsite.com/radikal",
+  "wixTitle": "Home | RADIKAL",
+  "lang": "en",
+  "newSlug": "home",
+  "items": [
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Welcome to RADIKAL"
+    },
+    {
+      "kind": "paragraph",
+      "text": "a pioneering social enterprise at the"
+    },
+    {
+      "kind": "paragraph",
+      "text": "intersection of technology, food systems, and"
+    },
+    {
+      "kind": "paragraph",
+      "text": "community empowerment."
+    },
+    {
+      "kind": "paragraph",
+      "text": "we are building sustainable futures by investing in local communities, fostering economic self-sufficiency, and championing environmental resilience in Haiti and beyond."
+    },
+    {
+      "kind": "image",
+      "wixMedia": "3685dd_32977ef51477442da80a5427b12c3d8d~mv2.jpg",
+      "wixFileName": null
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Rooting Livelihoods. Cultivating Sovereignty."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Empowering women to lead, RADIKAL cultivates sovereignty and resilience across Haiti and its diaspora. We're transforming communities through sustainable micro-enterprise, planting the seeds for a self-determined future."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "The Power of the Madan Sara: The Origin"
+    },
+    {
+      "kind": "image",
+      "wixMedia": "3685dd_fa274908553649429648f83c9753c832~mv2.png",
+      "wixFileName": null
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Our Aspiration. Their Legacy."
+    },
+    {
+      "kind": "paragraph",
+      "text": "At RADIKAL, our work is built upon the fierce, indispensable legacy of the Madan Sara; the legendary women traders who serve as the economic and literal backbone of Haiti."
+    },
+    {
+      "kind": "link",
+      "text": "Learn More",
+      "href": "https://nora936.wixsite.com/radikal/investinsaradi"
+    },
+    {
+      "kind": "image",
+      "wixMedia": "3685dd_8f1107b99d204d82927125a9faac0d7d~mv2.jpeg",
+      "wixFileName": null
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Invest in Women"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Cultivating Sovereignty. Empowering Women. Building Resilience."
+    },
+    {
+      "kind": "link",
+      "text": "Start Now",
+      "href": "https://nora936.wixsite.com/radikal/investinsaradi"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Follow us on Instagram"
+    },
+    {
+      "kind": "link",
+      "text": "@radikal.coop",
+      "href": "https://www.instagram.com/radikal.coop"
+    },
+    {
+      "kind": "button",
+      "text": "Load more"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Our Podcast"
+    },
+    {
+      "kind": "embed",
+      "title": "Instagram Feed"
+    }
+  ]
+}

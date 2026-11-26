@@ -1,0 +1,29 @@
+{
+  "note": "Wix media id -> file downloaded at full resolution into public/images (EXIF stripped).",
+  "media": {
+    "3685dd_bea7e75cbd894bc7b437fe94fa70cc82~mv2.png": "radikal-logo.png",
+    "3685dd_32977ef51477442da80a5427b12c3d8d~mv2.jpg": "home-street-food-vendor.jpg",
+    "3685dd_fa274908553649429648f83c9753c832~mv2.png": "madan-sara-bird.png",
+    "3685dd_8f1107b99d204d82927125a9faac0d7d~mv2.jpeg": "home-our-aspiration.jpg",
+    "3685dd_648fdf8d137749faa7731cfe05b11fa5~mv2.jpg": "saradi-our-spirit.jpg",
+    "3685dd_0af5c86c17524562baea192367f46eef~mv2.jpg": "hurricane-melissa-relief-1.jpg",
+    "3685dd_3ae55cb092df4c73a9aec2b38110cc8c~mv2.jpg": "hurricane-melissa-relief-2.jpg",
+    "3685dd_4193477cd1e44becb6c7e5273c9818b3~mv2.jpg": "hurricane-melissa-relief-3.jpg",
+    "3685dd_8427ca99a90345b5bbc6d6cb5f1b5b68f000.jpg": "hurricane-melissa-video-poster.jpg",
+    "3685dd_9fd2ff696dea43d6b9815301507151b7~mv2.jpg": "makaya-roots-of-resilience.jpg",
+    "3685dd_d5b3d089f07749cd808e1abbafcb5ebf~mv2.jpg": "makaya-initiative.jpg",
+    "3685dd_ff933bed17c9429a8e445281839ed5bf~mv2.jpg": "clean-water-and-coastlines.jpg",
+    "3685dd_1fe71cdd343a4a3699b2d4430b56a67a~mv2.jpg": "take-action.jpg",
+    "3685dd_174bb3be698c460dbb654763a1562111~mv2.png": "our-impact.png",
+    "3685dd_f74ac1edb98645448a61fdf6eef2deb4~mv2.jpeg": "our-story-full-story.jpg",
+    "3685dd_45c026f9b4184782b1d642fafcd49ea8~mv2.jpg": "our-story-vision.jpg",
+    "3685dd_ba4149dccb2548a08e35143cf8c5df51~mv2.jpg": "mapou-tree-roots.jpg",
+    "3685dd_bdf422817bab4914b629c57eddc26862~mv2.png": "radikal-logo.png",
+    "3685dd_31af94b461604b45ae9f6a0ad34ef9f2~mv2.jpg": "solution-sustainable-investment.jpg",
+    "3685dd_8ce8e617ef9d447f9f700e8f7d178e7a~mv2.jpg": "solution-integrated-supply-chain.jpg",
+    "3685dd_e7407799833f43778575147428acd1aa~mv2.jpeg": "solution-climate-smart-approach.jpg"
+  },
+  "video": {
+    "https://video.wixstatic.com/video/3685dd_8427ca99a90345b5bbc6d6cb5f1b5b68/360p/mp4/file.mp4": "/videos/hurricane-melissa-relief.mp4"
+  }
+}

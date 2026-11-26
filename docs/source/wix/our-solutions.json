@@ -1,0 +1,80 @@
+{
+  "wixUrl": "https://nora936.wixsite.com/radikal/s-projects-side-by-side",
+  "wixTitle": "Our Solutions | RADIKAL",
+  "lang": "en",
+  "newSlug": "our-solutions",
+  "items": [
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Our RADIKAL Model"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Our model is built on fusing three powerful elements to create a self-sustaining system. Unlike traditional approaches, we don't treat these problems in isolation. We integrate sustainable investment to launch women's enterprises, back this with integrated supply chain development to guarantee market access, and complete the cycle with a climate-smart technical approach to rejuvenate the land. This interlocking framework ensures profitability and environmental well-being grow together."
+    },
+    {
+      "kind": "paragraph",
+      "text": "01"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Sustainable Investment"
+    },
+    {
+      "kind": "image",
+      "wixMedia": "3685dd_31af94b461604b45ae9f6a0ad34ef9f2~mv2.jpg",
+      "wixFileName": "PHOTO-2024-02-26-21-19-00_edited.jpg"
+    },
+    {
+      "kind": "paragraph",
+      "text": "We provide resources and mentorship directly to women and youth entrepreneurs to launch and scale their micro businesses. Unlike traditional aid, this investment is structured to promote ownership and long-term growth, ensuring profits are reinvested back into the enterprise and the community. This pillar fuels the initial transformation from economic hardship to a resilient, women-led micro-economy."
+    },
+    {
+      "kind": "paragraph",
+      "text": "02"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Integrated Supply Chain"
+    },
+    {
+      "kind": "paragraph",
+      "text": "We build a streamlined, ethical network that connects local, sustainably grown produce directly to end consumers via our women entrepreneurs (the Saradi). This process eliminates predatory middlemen, ensures fair wages for farmers, and guarantees a consistent supply of organic and healthy products. By controlling the entire journey from farm to market, we maximize efficiency, stability, and profit for all participants."
+    },
+    {
+      "kind": "image",
+      "wixMedia": "3685dd_8ce8e617ef9d447f9f700e8f7d178e7a~mv2.jpg",
+      "wixFileName": "IMG_0034 (1)_edited.jpg"
+    },
+    {
+      "kind": "paragraph",
+      "text": "03"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Climate-Smart Approach"
+    },
+    {
+      "kind": "image",
+      "wixMedia": "3685dd_e7407799833f43778575147428acd1aa~mv2.jpeg",
+      "wixFileName": "IMG_2265.jpeg"
+    },
+    {
+      "kind": "paragraph",
+      "text": "We equip smallholder farmers with specialized climate-smart practices, like agroforestry, that boost productivity while actively protecting ecosystems and restoring soil health. Crucially, this extends beyond the farm to include eco-friendly packaging and the integration of clean energy solutions throughout our processing facilities and Saradi points of sale. This approach is critical for adapting to climate change, securing sustainable local sourcing, and guaranteeing the long-term, low-carbon viability of the entire supply chain."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "A Women-Led Grassroots Blueprint"
+    },
+    {
+      "kind": "paragraph",
+      "text": "We have adapted the legacy of the Madan Sara into a modern, replicable enterprise model supporting our Saradi. This process rigorously trains and equips women to manage the entire cycle from sustainable sourcing to profitable sales. The result is a network of women-led micro-enterprises that stabilize food supply, improve local consumption, and create a resilient economic safety net in communities."
+    }
+  ]
+}

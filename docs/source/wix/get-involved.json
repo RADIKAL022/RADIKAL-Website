@@ -1,0 +1,48 @@
+{
+  "wixUrl": "https://nora936.wixsite.com/radikal/get-involved",
+  "wixTitle": "Take Action | RADIKAL",
+  "lang": "en",
+  "newSlug": "get-involved",
+  "items": [
+    {
+      "kind": "image",
+      "wixMedia": "3685dd_1fe71cdd343a4a3699b2d4430b56a67a~mv2.jpg",
+      "wixFileName": null
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Be the first to know"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Subscribe to our newsletter to receive news and updates."
+    },
+    {
+      "kind": "form-label",
+      "text": "Enter your email here"
+    },
+    {
+      "kind": "form-input",
+      "type": "email",
+      "label": null
+    },
+    {
+      "kind": "button",
+      "text": "Sign Up"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Thanks for submitting!"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Podcast"
+    },
+    {
+      "kind": "embed",
+      "title": "Instagram Feed"
+    }
+  ]
+}
